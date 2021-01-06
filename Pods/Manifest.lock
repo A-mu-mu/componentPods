@@ -1,0 +1,16 @@
+PODS:
+  - WLDoubleCell (0.1.0)
+
+DEPENDENCIES:
+  - WLDoubleCell (from `Lib/WLDoubleCell`)
+
+EXTERNAL SOURCES:
+  WLDoubleCell:
+    :path: Lib/WLDoubleCell
+
+SPEC CHECKSUMS:
+  WLDoubleCell: 2571e8f08ad899b91fe5c559939b81936fe19f71
+
+PODFILE CHECKSUM: 2c21d4994357459ea2a6e3e5f4e19018e88866dc
+
+COCOAPODS: 1.10.0
